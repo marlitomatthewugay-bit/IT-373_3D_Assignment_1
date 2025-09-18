@@ -1,0 +1,31 @@
+Checklist:
+
+# Python Version
+python --version
+Python 3.13.7
+
+# Django version
+django-admin version
+5.2.6
+
+# Runserver Working
+python .\manage.py runserver
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+September 18, 2025 - 12:28:06
+Django version 5.2.6, using settings 'config.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+
+# Git Remote set
+git remote -v
+origin  https://github.com/marlitomatthewugay-bit/IT-373_3D_Assignment_1.git (fetch)
+origin  https://github.com/marlitomatthewugay-bit/IT-373_3D_Assignment_1.git (push)
